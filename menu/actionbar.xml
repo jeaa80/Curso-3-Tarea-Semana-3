@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/borde_action_bar"
+    android:paddingLeft="@dimen/padding_info"
+    android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+    app:navigationIcon="@drawable/dog_paw"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+
+
+
+
+        <Text
+            android:id="@+id/tvApp"
+            android:layout_width="264dp"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/indie_flower"
+            android:gravity="center_horizontal"
+            android:paddingTop="@dimen/margenActionBar"
+            android:text="@string/app_name"
+            android:textSize="@dimen/fuenteActionToolBar"
+
+            />
+
+</menu>

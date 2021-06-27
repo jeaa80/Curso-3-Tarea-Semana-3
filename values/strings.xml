@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre">Perry Bones</string>
+    <string name="telefono">3125210938</string>
+    <string name="email">jesus.acedo@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="likes">Likes</string>
+    <string name="USUARIOS">Usuarios</string>
+    <string name="actionBarButtom">actionBarButton</string>
+    <string name="boton_actionBar">BotonActionBar</string>
+    <string name="Foto">Foto</string>
+    <string name="hueso_vacio">BotonHuesoVacio</string>
+    <string name="BotonHuesoAmarillo">BotonHuesoAmarillo</string>
+    <string name="favorito">Favoritos</string>
+    <string name="salir">Salir</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="menu_3">Menu 3</string>
+    <string name="more">Mas...</string>
+    <string name="search">Buscar</string>
+    <string name="Imagen_back">imgBar</string>
+    <string name="Estrella">estrella</string>
+    <string name="Boton">textoBoton</string>
+
+
+</resources>
